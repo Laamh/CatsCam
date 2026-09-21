@@ -1,0 +1,13 @@
+# ENV
+.env
+.env12
+
+# training
+runs
+weights
+dataset
+
+# models
+yolov8x.pt
+yolov8n-cls.pt
+yolov26.pt
